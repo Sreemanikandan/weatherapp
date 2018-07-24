@@ -1,0 +1,13 @@
+new folder
+
+new js file
+
+npm init
+
+npm i yargs --save
+
+
+npm i request --save
+
+
+cat package.json
